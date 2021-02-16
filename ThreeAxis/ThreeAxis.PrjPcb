@@ -88,6 +88,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YUTQWTCO
 
+[Document4]
+DocumentPath=..\Lib\CoLib\Project Outputs for CoLib\CoLib.IntLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [ProjectVariant1]
 UniqueID=573CC2DB-2907-4D74-AF9D-DEE4ED0F153B
 Description=²»µ÷ÕûÆ«ÖÃ
