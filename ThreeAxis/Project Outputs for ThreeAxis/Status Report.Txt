@@ -1,10 +1,10 @@
-Output: Generates pick and place files
-Type  : Pick Place
-From  : Variant [[No Variations]] of Project [ThreeAxis.PrjPcb]
-   Generated File[Pick Place for 01.csv]
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [不调整偏置] of Project [ThreeAxis.PrjPcb]
+   Generated File[Bill of Materials-ThreeAxis(不调整偏置).xlsx]
 
 
 Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 21:07:13 On 2021/2/9
+Finished Output Generation At 21:17:38 On 2021/2/18
